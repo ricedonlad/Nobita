@@ -575,6 +575,7 @@ hr {
     font-size: 0.9em;
     display: flex;
     align-items: center;
+    justify-content: center; /* 이 줄을 추가합니다. */
     gap: 5px;
     transition: background-color 0.2s;
     flex-shrink: 0;
